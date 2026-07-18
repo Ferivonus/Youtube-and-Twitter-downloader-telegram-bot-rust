@@ -1,0 +1,5 @@
+/target
+.env
+cookies.txt
+/downloads
+download_log.json

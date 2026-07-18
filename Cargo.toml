@@ -1,0 +1,19 @@
+[package]
+name = "x_video_bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+teloxide = { version = "0.17", features = ["macros"] }
+tokio = { version = "1.53.0", features = ["full"] }
+dotenvy = "0.15.7"
+anyhow = "1.0.104"
+tempfile = "3.27.0"
+regex = "1.13.1"
+chrono = "0.4.45"
+serde_json = "1.0.150"
+serde = { version = "1.0.229", features = ["derive"] }
+tracing = "0.1.44"
+tracing-appender = "0.2.5"
+tracing-subscriber = { version = "0.3.23", features = ["env-filter"] }
+reqwest = "0.13.4"
