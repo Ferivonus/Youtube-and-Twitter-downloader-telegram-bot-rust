@@ -17,4 +17,4 @@ this bot is a telegram bot that can download videos from youtube and twitter, an
 
 - downloading videos from youtube and twitter may violate their terms of service, so use this bot at your own risk. I am not responsible for any consequences that may arise from using this bot.
 - do not use this bot to download copyrighted content without permission.
-- do not download child pornography or any other illegal content.
+- do not download child stuff or any other illegal content.
